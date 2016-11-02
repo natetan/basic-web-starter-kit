@@ -2,6 +2,6 @@
 
 	'use strict';
 
-	// Code goes here
-	
+	// code goes here
+
 }) ();
