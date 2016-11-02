@@ -5,8 +5,8 @@
 1. `git clone https://github.com/yulongtan/basic-web-starter-kit`
 2. `cd basic-web-starter-kit`
 3. `rm -rf .git`
-4. npm install jquery
-5. npm install bootstrap@3
+4. `npm install jquery`
+5. `npm install bootstrap@3`
 
 ### JavaScript Note
 
